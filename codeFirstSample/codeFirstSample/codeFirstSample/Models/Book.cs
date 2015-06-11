@@ -15,7 +15,7 @@ namespace codeFirstSample.Models
         public int BookID { get; set; }
         public string BookName { get; set; }
         public string ISBN { get; set; }
-
+//My test
         // This is to maintain the many reviews associated with a book entity
         public virtual ICollection<Review> Reviews { get; set; }
     }
