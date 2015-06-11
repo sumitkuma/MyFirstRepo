@@ -33,7 +33,6 @@ D:\codeFirstSample\codeFirstSample\codeFirstSample\bin\System.Web.WebPages.Deplo
 D:\codeFirstSample\codeFirstSample\codeFirstSample\bin\System.Web.WebPages.Razor.xml
 D:\codeFirstSample\codeFirstSample\codeFirstSample\obj\Debug\codeFirstSample.dll
 D:\codeFirstSample\codeFirstSample\codeFirstSample\obj\Debug\codeFirstSample.pdb
-C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\bin\codeFirstSample.dll.config
 C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\bin\codeFirstSample.dll
 C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\bin\codeFirstSample.pdb
 C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\bin\EntityFramework.dll
@@ -68,3 +67,4 @@ C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\b
 C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\obj\Debug\codeFirstSample.csprojResolveAssemblyReference.cache
 C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\obj\Debug\codeFirstSample.dll
 C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\obj\Debug\codeFirstSample.pdb
+C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\bin\codeFirstSample.dll.config
