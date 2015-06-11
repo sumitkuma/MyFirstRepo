@@ -67,4 +67,3 @@ C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\b
 C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\obj\Debug\codeFirstSample.csprojResolveAssemblyReference.cache
 C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\obj\Debug\codeFirstSample.dll
 C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\obj\Debug\codeFirstSample.pdb
-C:\git-tf\TestFile\MyFirstRepo\codeFirstSample\codeFirstSample\codeFirstSample\bin\codeFirstSample.dll.config
